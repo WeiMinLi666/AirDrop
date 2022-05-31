@@ -1,4 +1,4 @@
-# 仿Airdrop软件介绍
+# README
 
 ## 关键功能
 
